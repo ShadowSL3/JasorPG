@@ -1,7 +1,5 @@
 # JasorPG
 *Not required Render Pipeline*
-<bottom>
-*🔧Tool contains Pathfindig AI and more*
+**🔧Tool contains Pathfindig AI and more**
 # Required 
-<p align="center"><img src="https://img.shields.io/badge/unity-2020.3.48f1-brightgreen?style=flat-square&logo=unity&logoColor=white" /> <br>
-
+<p align="center"><hr><img src="https://img.shields.io/badge/unity-2020.3.48f1-brightgreen?style=flat-square&logo=unity&logoColor=white" /> <br>
