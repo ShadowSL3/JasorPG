@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Rendering;
-using UnityEngine.Rendering.PostProcessing;
+
 public class CameraAPi : MonoBehaviour
 {
-    public RenderingPath pathRendering;
+ //   public RenderingPath pathRendering;
     public Camera cam;
     // zoom and zoom out camera API system
     public bool HDR = false;
@@ -16,8 +16,7 @@ public class CameraAPi : MonoBehaviour
     public float maxZoom = 3.2f;
     public float moveSpeed = 3.5f;
     public Vector2 minLimit;
-    public Vector2 maxLimit;
-
+    public Vector2 maxLimit;   
 
     //
     // Start is called before the first frame update
